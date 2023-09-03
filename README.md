@@ -31,9 +31,9 @@ If you are looking to get your business to the next level with a conversion-opti
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+And much more...
 
-## Algunos vídeos en YouTube:
+## Some youtube videos:
 
 <table style="width:100%">
 <tr>
