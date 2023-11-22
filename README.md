@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hi, my name is Juan Devis 👋
+Hi, my name is Juan Devis 👋
 ### Freelance full-stack wordpress php developer + javascript + html + css
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
@@ -14,7 +14,11 @@ I have been a professional software engineer for more than twelve years.
 
 In 2014 I left my job at a multinational and created 2ffactor, the reflection of my dream of growing as a professional within the software development industry. Since then I have dedicated myself to specializing in the development of mobile applications, collaborating with companies from different parts of the world, creating more than 100 Apps.
 
-In 2018 I returned to my hometown in Galicia (Spain), and started creating programming content and sharing my experience as a developer on platforms such as YouTube, Twitch or Udemy. I would like to somehow give back to all the knowledge that the community has shared with me for free over the years.👏
+In 2018 left my hometown (Venezuela) to move to chile, and started creating programming content and sharing my experience as a developer to different teams.👏
+in 2019 i got to Ecuador and worked in an agency programing hundreds of websites, improving my skilss in javascript, php, sql, wordpress core, firebase and flutter
+And finally in 2020 i got to Usa where i started to work on upwork and fiverr getting in the first places posicioning as one of the best in both platforms for wordpress development
+
+In all of these years i have gathered knoledge that i would like to use in platforms, companies and apps to build awesome things and improve somehow the world😁
 
 
 ## Tech:
@@ -32,6 +36,6 @@ In 2018 I returned to my hometown in Galicia (Spain), and started creating progr
 </br>
 And much more...
 
-<h1> HELLO WORLD</h1>
+<h1> SEE YA WORLD😉 </h1>
 
 
