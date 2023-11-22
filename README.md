@@ -10,13 +10,12 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-HI! I am Juan Devis and I am super HAPPY TO HAVE YOU HERE😁
+I have been a professional software engineer for more than twelve years.
 
-I have more than 10 years of experience in UX WEB DESIGN with DIVI & ELEMENTOR and DEVELOPING on WordPress💻
+In 2014 I left my job at a multinational and created 2ffactor, the reflection of my dream of growing as a professional within the software development industry. Since then I have dedicated myself to specializing in the development of mobile applications, collaborating with companies from different parts of the world, creating more than 100 Apps.
 
- I try to set every detail perfectly, making sure every page is beautiful so they can inspire a sense of elegancy but always adapted to your brand⭐
+In 2018 I returned to my hometown in Galicia (Spain), and started creating programming content and sharing my experience as a developer on platforms such as YouTube, Twitch or Udemy. I would like to somehow give back to all the knowledge that the community has shared with me for free over the years.👏
 
-If you are looking to get your business to the next level with a conversion-optimized website, you are in the right place
 
 ## Tech:
 
