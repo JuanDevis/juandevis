@@ -1,7 +1,7 @@
 Hi, my name is Juan Devis 👋
 ### Freelance full-stack wordpress php developer + javascript + html + css
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 I have been a professional software engineer for more than twelve years.
 
