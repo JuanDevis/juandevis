@@ -3,13 +3,6 @@ Hi, my name is Juan Devis 👋
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]([c](https://www.youtube.com/channel/UCvrpEbnUyerM_ARAuBpRUWA)?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
 I have been a professional software engineer for more than twelve years.
 
 In 2014 I left my job at a multinational and created 2ffactor, the reflection of my dream of growing as a professional within the software development industry. Since then I have dedicated myself to specializing in the development of mobile applications, collaborating with companies from different parts of the world, creating more than 100 Apps.
