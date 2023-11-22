@@ -1,8 +1,6 @@
 Hi, my name is Juan Devis 👋
 ### Freelance full-stack wordpress php developer + javascript + html + css
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 I have been a professional software engineer for more than twelve years.
 
 In 2014 I left my job at a multinational and created 2ffactor, the reflection of my dream of growing as a professional within the software development industry. Since then I have dedicated myself to specializing in the development of mobile applications, collaborating with companies from different parts of the world, creating more than 100 Apps.
